@@ -27,7 +27,7 @@ exports[`AssignmentFilter component render with selected assignment snapshot 1`]
       type="submit"
       variant="outline-secondary"
     >
-      Apply
+      Áp dụng
     </Button>
   </div>
 </div>
@@ -60,7 +60,7 @@ exports[`AssignmentFilter component render without selected assignment snapshot 
       type="submit"
       variant="outline-secondary"
     >
-      Apply
+      Áp dụng
     </Button>
   </div>
 </div>

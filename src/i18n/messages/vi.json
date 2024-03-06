@@ -69,5 +69,6 @@
     "gradebook.GradesTab.FilterBadges.cohort": "Phân nhóm",
     "gradebook.GradesTab.FilterBadges.courseGrade": "Điểm khóa học",
     "gradebook.GradesTab.FilterBadges.includeCourseRoleMembers": "Bao gồm các thành viên nhóm phụ trách",
-    "gradebook.GradesTab.FilterBadges.track": "Chương trình"
+    "gradebook.GradesTab.FilterBadges.track": "Chương trình",
+    "gradebook.GradesView.table.noResultsFound":"Không tìm thấy kết quả"
 }
