@@ -39,9 +39,9 @@
     "gradebook.GradesView.editFilterLabel": "Chỉnh sửa bộ lọc",
     "gradebook.GradesView.table.headings.email": "Email",
     "gradebook.GradesView.table.headings.totalGrade": "Điểm tổng kết (%)",
-    "gradebook.GradesView.table.headings.username": "Tên người dùng",
+    "gradebook.GradesView.table.headings.username": "Tên đăng nhập",
     "gradebook.GradesView.table.labels.studentKey": "Khóa duy nhất*",
-    "gradebook.GradesView.table.labels.username": "Tên người dùng",
+    "gradebook.GradesView.table.labels.username": "Tên đăng nhập",
     "gradebook.GradesView.table.totalGradePercentage": "Tổng điểm được hiển thị dưới dạng phần trăm",
     "gradebook.BulkManagementHistoryView.csvUploadLabel": "Tải lên CSV lớp",
     "gradebook.GradesView.importGradesBtnText": "Nhập lớp",
@@ -59,7 +59,7 @@
     "gradebook.GradesView.absoluteOption": "Tuyệt đối",
     "gradebook.GradesView.percentOption": "Phần trăm",
     "gradebook.GradesView.search.label": "Tìm kiếm người học",
-    "gradebook.GradesView.search.hint": "Tìm kiếm theo tên người dùng, email hoặc khóa học viên",
+    "gradebook.GradesView.search.hint": "Tìm kiếm theo tên đăng nhập, email hoặc khóa học viên",
     "gradebook.GradesView.editSuccessAlert": "Điểm đã được chỉnh sửa thành công. Bạn có thể thấy có một chút chậm trễ trước khi các cập nhật xuất hiện trong sổ Điểm.",
     "gradebook.GradesView.maxCourseGradeInvalid": "Điểm khóa học tối đa phải nằm trong khoảng từ 0 đến 100",
     "gradebook.GradesView.minCourseGradeInvalid": "Điểm khóa học tối thiểu phải nằm trong khoảng từ 0 đến 100",
@@ -70,5 +70,5 @@
     "gradebook.GradesTab.FilterBadges.courseGrade": "Điểm khóa học",
     "gradebook.GradesTab.FilterBadges.includeCourseRoleMembers": "Bao gồm các thành viên nhóm phụ trách",
     "gradebook.GradesTab.FilterBadges.track": "Chương trình",
-    "gradebook.GradesView.table.noResultsFound":"Không tìm thấy kết quả"
+    "gradebook.GradesView.table.noResultsFound": "Không tìm thấy kết quả"
 }
