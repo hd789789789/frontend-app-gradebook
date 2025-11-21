@@ -3,7 +3,7 @@ import { defineMessages } from '@edx/frontend-platform/i18n';
 const messages = defineMessages({
   fullNameHeading: {
     id: 'gradebook.GradesView.table.headings.fullName',
-    defaultMessage: 'Full Name',
+    defaultMessage: 'Họ và tên',
     description: 'Gradebook table full name column header',
   },
   emailHeading: {
@@ -13,32 +13,32 @@ const messages = defineMessages({
   },
   totalGradeHeading: {
     id: 'gradebook.GradesView.table.headings.totalGrade',
-    defaultMessage: 'Total Grade (%)',
+    defaultMessage: 'Tổng điểm (%)',
     description: 'Gradebook table total grade column header',
   },
   usernameHeading: {
     id: 'gradebook.GradesView.table.headings.username',
-    defaultMessage: 'Username',
+    defaultMessage: 'Tên người dùng',
     description: 'Gradebook table username column header',
   },
   studentKeyLabel: {
     id: 'gradebook.GradesView.table.labels.studentKey',
-    defaultMessage: 'Student Key',
+    defaultMessage: 'Mã người học',
     description: 'Gradebook table Student Key label',
   },
   usernameLabel: {
     id: 'gradebook.GradesView.table.labels.username',
-    defaultMessage: 'Username',
+    defaultMessage: 'Tên người dùng',
     description: 'Gradebook table username label',
   },
   totalGradePercentage: {
     id: 'gradebook.GradesView.table.totalGradePercentage',
-    defaultMessage: 'Total Grade values are always displayed as a percentage',
+    defaultMessage: 'Giá trị tổng điểm luôn được hiển thị dưới dạng phần trăm',
     description: 'Gradebook table message that total grades are displayed in percent format',
   },
   noResultsFound: {
     id: 'gradebook.GradesView.table.noResultsFound',
-    defaultMessage: 'No results found',
+    defaultMessage: 'Không tìm thấy kết quả',
     description: 'Gradebook table message when no learner results were found',
   },
 });

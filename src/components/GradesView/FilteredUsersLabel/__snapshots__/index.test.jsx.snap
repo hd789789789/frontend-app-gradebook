@@ -4,7 +4,7 @@ exports[`FilteredUsersLabel component render snapshot 1`] = `
 <format-message-function
   message={
     {
-      "defaultMessage": "Showing {filteredUsers} of {totalUsers} total learners",
+      "defaultMessage": "Đang hiển thị {filteredUsers} trong tổng số {totalUsers} người học",
       "description": "Users visibility label",
       "id": "gradebook.GradesTab.usersVisibilityLabel",
     }

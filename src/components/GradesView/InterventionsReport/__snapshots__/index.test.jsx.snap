@@ -18,7 +18,7 @@ exports[`InterventionsReport component output snapshot 1`] = `
     <NetworkButton
       label={
         {
-          "defaultMessage": "Download Interventions",
+          "defaultMessage": "Tải xuống các can thiệp",
           "description": "The labeled button to download the Intervention report from the Grades View",
           "id": "gradebook.GradesView.InterventionsReport.downloadBtn",
         }

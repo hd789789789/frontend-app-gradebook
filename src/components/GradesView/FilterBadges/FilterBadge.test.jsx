@@ -23,7 +23,7 @@ const filterName = 'test-filter-name';
 
 const hookProps = {
   displayName: {
-    defaultMessage: 'a common name',
+    defaultMessage: 'một cái tên thông thường',
   },
   isDefault: false,
   hideValue: false,

@@ -42,7 +42,7 @@ exports[`ImportGradesButton component render snapshot 1`] = `
     import={true}
     label={
       {
-        "defaultMessage": "Import Grades",
+        "defaultMessage": "Nhập điểm",
         "description": "A labeled button to import grades in the BulkManagement Tab File Upload Form",
         "id": "gradebook.GradesView.importGradesBtnText",
       }

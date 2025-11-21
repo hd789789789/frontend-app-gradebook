@@ -3,17 +3,17 @@ import { defineMessages } from '@edx/frontend-platform/i18n';
 const messages = defineMessages({
   editSuccessAlert: {
     id: 'gradebook.GradesView.editSuccessAlert',
-    defaultMessage: 'The grade has been successfully edited.  You may see a slight delay before updates appear in the Gradebook.',
+    defaultMessage: 'Điểm đã được chỉnh sửa thành công. Bạn có thể thấy độ trễ nhỏ trước khi các cập nhật xuất hiện trong Sổ điểm.',
     description: 'An alert text for successfully editing  a grade',
   },
   maxGradeInvalid: {
     id: 'gradebook.GradesView.maxCourseGradeInvalid',
-    defaultMessage: 'Maximum course grade must be between 0 and 100',
+    defaultMessage: 'Điểm tối đa của khóa học phải nằm trong khoảng từ 0 đến 100',
     description: 'An alert text for selecting a maximum course grade greater than 100',
   },
   minGradeInvalid: {
     id: 'gradebook.GradesView.minCourseGradeInvalid',
-    defaultMessage: 'Minimum course grade must be between 0 and 100',
+    defaultMessage: 'Điểm tối thiểu của khóa học phải nằm trong khoảng từ 0 đến 100',
     description: 'An alert text for selecting a minimum course grade less than 0',
   },
 });

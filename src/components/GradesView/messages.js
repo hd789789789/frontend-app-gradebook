@@ -3,17 +3,17 @@ import { defineMessages } from '@edx/frontend-platform/i18n';
 const messages = defineMessages({
   filterStepHeading: {
     id: 'gradebook.GradesView.filterHeading',
-    defaultMessage: 'Step 1: Filter the Grade Report',
+    defaultMessage: 'Bước 1: Lọc báo cáo điểm',
     description: 'Filter controls container heading string',
   },
   gradebookStepHeading: {
     id: 'gradebook.GradesView.gradebookStepHeading',
-    defaultMessage: 'Step 2: View or Modify Individual Grades',
+    defaultMessage: 'Bước 2: Xem hoặc chỉnh sửa điểm cá nhân',
     description: 'Alert text for invalid minimum course grade',
   },
   mastersHint: {
     id: 'gradebook.GradesView.mastersHint',
-    defaultMessage: "available for learners in the Master's track only",
+    defaultMessage: "chỉ khả dụng cho người học trong lộ trình Thạc sĩ",
     description: 'Masters feature availability hint on Grades Tab',
   },
 });

@@ -21,13 +21,13 @@ exports[`NetworkButton component snapshots snapshot 1`] = `
   labels={
     {
       "default": <FormattedMessage
-        defaultMessage="test button label"
+        defaultMessage="nhãn nút kiểm tra"
         description="test button label description"
         id="label-id"
         showSpinner={false}
       />,
       "pending": <FormattedMessage
-        defaultMessage="test button label"
+        defaultMessage="nhãn nút kiểm tra"
         description="test button label description"
         id="label-id"
         showSpinner={false}

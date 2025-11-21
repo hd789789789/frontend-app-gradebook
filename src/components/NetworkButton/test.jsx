@@ -29,7 +29,7 @@ describe('NetworkButton component', () => {
       className: 'test-class',
       label: {
         id: 'label-id',
-        defaultMessage: 'test button label',
+        defaultMessage: 'nhãn nút kiểm tra',
         description: 'test button label description',
         showSpinner: false,
       },
